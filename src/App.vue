@@ -11,6 +11,8 @@
         </div>
         <div>
           <a href="https://beian.miit.gov.cn/">辽ICP备19016520号-3</a>
+          |
+          <a href="https://www.12377.cn/">网信办举报入口</a>
         </div>
       </div>
     </div>
